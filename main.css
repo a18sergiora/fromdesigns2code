@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 80px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+#greg {
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  background-color: #EEEEEE;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+a:link, a:visited {
+    color: black;
+}
+
+.post {
+	position: absolute;
+	right: 0px;
+	padding-right:100px;
+}
+
+.account {
+	position: absolute;
+	right: 0px;
+	padding-right:25px;
+}
+
+#site-search {
+	width: 350px;
+	height:20px;
+	border: 1px solid #C0C0C0;
+}
+
+.search-image {
+	width:15px;
+	height:15px;
+}
+
+button {
+	background-color: white;
+	border: 1px solid #C0C0C0;
+}
+
+#button {
+	width:80px;
+	height:30px;
+	border: 1px solid #C0C0C0;
+}
+
+#button-large {
+	width:120px;
+	height:30px;
+	margin: -10px;
+	border: 1px solid #C0C0C0;
+}
+
+.entry {
+	display: inline-block;
+	font-size: 16px;
+}
+
+.greyelements {
+	color: #999;
+}
+
+#midlinks {
+	margin-left:10px;
+	margin-right:10px;
+}
